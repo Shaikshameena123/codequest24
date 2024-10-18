@@ -1,0 +1,49 @@
+body {
+    background-color: #f0f4f8; /* Soft background color */
+    font-family: Arial, sans-serif; /* Clean font */
+}
+
+h1 {
+    color: #007BFF; /* Header color */
+}
+
+h3 {
+    color: #333; /* Subheader color */
+}
+
+button {
+    background-color: #007BFF; /* Button color */
+    color: white; /* Button text color */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Padding for buttons */
+    border-radius: 5px; /* Rounded corners */
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+.info {
+    background-color: #e7f1ff; /* Light background for info boxes */
+    border-left: 4px solid #007BFF; /* Color accent for info boxes */
+}
+h1, h3, h4 {
+    transition: all 0.3s ease;
+}
+
+h1 {
+    color: #007BFF; /* Change this color as needed */
+}
+
+h3 {
+    color: #007BFF; /* Change this color as needed */
+}
+
+h4 {
+    color: #E56E00; /* Change this color as needed */
+}
+
+h1:hover, h3:hover, h4:hover {
+    font-weight: bold; /* Bold on hover */
+    text-decoration: underline; /* Underline on hover */
+}
