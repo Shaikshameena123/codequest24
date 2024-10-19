@@ -5,7 +5,8 @@ This project aims to evaluate student answers against a model answer using vario
 
 The overall architecture of the Intelligent Answer Evaluation System is as follows:
 
-![image](https://github.com/user-attachments/assets/78d36228-31e2-445f-9af0-b8d4a5d7fa9b)
+![WhatsApp Image 2024-10-19 at 01 34 20_bb22e7a0](https://github.com/user-attachments/assets/a3213d95-7c87-459d-b611-192baaa0a74c)
+
 
 ## Software Tools Used
 
@@ -43,25 +44,26 @@ You can start the Streamlit application by running:
 > streamlit run app.py
 
 Step 5: Use the Application
-Upload a student answer script (in .txt format) or select a sample student answer.
+' Upload a student answer script (in .txt format) or select a sample student answer.
 
-Click "Evaluate Answer" to check the similarity, plagiarism, and grammar issues.
+. Click "Evaluate Answer" to check the similarity, plagiarism, and grammar issues.
 
-View the evaluation metrics, including answer similarity, plagiarism score, and grammar issues.
+. View the evaluation metrics, including answer similarity, plagiarism score, and grammar issues.
 
-Review the feedback and performance visualization.
+. Review the feedback and performance visualization.
 
 Step 6: View the Results
 The application will provide a summary of evaluation metrics and highlight plagiarized content. Grammar issues will also be displayed, with appropriate feedback for improvement.
 
 Expected Output:
-Plagiarism score (as a percentage)
 
-Similarity score (as a percentage)
+. Plagiarism score (as a percentage)
 
-Grammar issues with context
+. Similarity score (as a percentage)
 
-Readability score for the student's answer
+. Grammar issues with context
+
+. Readability score for the student's answer
 
 
 
